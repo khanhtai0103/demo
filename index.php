@@ -6,6 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    
+<!-- $ git config --global user.name "User Name" -->
 </body>
 </html>
