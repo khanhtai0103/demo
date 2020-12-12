@@ -1,3 +1,3 @@
 <?php
 echo"hello";
-ehoc "demo github";
+echo "demo github";
