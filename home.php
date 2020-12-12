@@ -1,3 +1,3 @@
 <?php
 echo"hello";
-echo "demo github";
+echo "demo github lỗi xung đột trong github";
